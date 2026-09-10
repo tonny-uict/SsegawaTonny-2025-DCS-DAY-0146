@@ -9,3 +9,8 @@
 | Date | Project | Path | Language | Status |
 |------|---------|------|----------|--------|
 | 2026-09-10 | 17_SimpleInheritance | `/2026-09-10_17_SimpleInheritance/Main.java` | Java | ✅ |
+| 2026-09-10 | CalculatorLoops | `/2026-09-10_CalculatorLoops/Main.java` | Java | ✅ |
+| 2026-09-10 | UserInput | `/2026-09-10_UserInput/Main.java` | Java | ✅ |
+| 2026-09-10 | MultiplicationTable | `/2026-09-10_MultiplicationTable/Main.java` | Java | ✅ |
+| 2026-09-10 | GradeChecker | `/2026-09-10_GradeChecker/Main.java` | Java | ✅ |
+| 2026-09-10 | StudentClass | `/2026-09-10_StudentClass/Main.java` | Java | ✅ |
