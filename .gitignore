@@ -1,0 +1,13 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.zip
+*.tmp
+__pycache__/
+.logs/
+out/
+target/
+.idea/
+.vscode/
