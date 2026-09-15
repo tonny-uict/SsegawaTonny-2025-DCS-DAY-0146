@@ -19,3 +19,4 @@
 | 2026-09-13 | 11_BankAccountEncap | `/2026-09-13_11_BankAccountEncap/Main.java` | Java | ✅ |
 | 2026-09-14 | 07_ClassAndObject | `/2026-09-14_07_ClassAndObject/Main.java` | Java | ✅ |
 | 2026-09-15 | 18_ATMEncap | `/2026-09-15_18_ATMEncap/Main.java` | Java | ✅ |
+| 2026-09-15 | BookLibraryInheritance | `/2026-09-15_BookLibraryInheritance/Main.java` | Java | ✅ |
