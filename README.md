@@ -20,3 +20,4 @@
 | 2026-09-14 | 07_ClassAndObject | `/2026-09-14_07_ClassAndObject/Main.java` | Java | ✅ |
 | 2026-09-15 | 18_ATMEncap | `/2026-09-15_18_ATMEncap/Main.java` | Java | ✅ |
 | 2026-09-15 | BookLibraryInheritance | `/2026-09-15_BookLibraryInheritance/Main.java` | Java | ✅ |
+| 2026-09-16 | 10_EncapsulationBasic | `/2026-09-16_10_EncapsulationBasic/Main.java` | Java | ✅ |
