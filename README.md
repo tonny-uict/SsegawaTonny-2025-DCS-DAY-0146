@@ -21,3 +21,4 @@
 | 2026-09-15 | 18_ATMEncap | `/2026-09-15_18_ATMEncap/Main.java` | Java | ✅ |
 | 2026-09-15 | BookLibraryInheritance | `/2026-09-15_BookLibraryInheritance/Main.java` | Java | ✅ |
 | 2026-09-16 | 10_EncapsulationBasic | `/2026-09-16_10_EncapsulationBasic/Main.java` | Java | ✅ |
+| 2026-09-17 | 02_VariablesDataTypes | `/2026-09-17_02_VariablesDataTypes/Main.java` | Java | ✅ |
