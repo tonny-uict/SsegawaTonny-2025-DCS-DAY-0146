@@ -22,3 +22,4 @@
 | 2026-09-15 | BookLibraryInheritance | `/2026-09-15_BookLibraryInheritance/Main.java` | Java | ✅ |
 | 2026-09-16 | 10_EncapsulationBasic | `/2026-09-16_10_EncapsulationBasic/Main.java` | Java | ✅ |
 | 2026-09-17 | 02_VariablesDataTypes | `/2026-09-17_02_VariablesDataTypes/Main.java` | Java | ✅ |
+| 2026-09-18 | 08_Constructors | `/2026-09-18_08_Constructors/Main.java` | Java | ✅ |
