@@ -24,3 +24,4 @@
 | 2026-09-17 | 02_VariablesDataTypes | `/2026-09-17_02_VariablesDataTypes/Main.java` | Java | ✅ |
 | 2026-09-18 | 08_Constructors | `/2026-09-18_08_Constructors/Main.java` | Java | ✅ |
 | 2026-09-21 | 13_StudentFeesEncap | `/2026-09-21_13_StudentFeesEncap/Main.java` | Java | ✅ |
+| 2026-09-23 | 01_HelloWorld | `/2026-09-23_01_HelloWorld/Main.java` | Java | ✅ |
