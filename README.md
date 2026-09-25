@@ -26,3 +26,4 @@
 | 2026-09-21 | 13_StudentFeesEncap | `/2026-09-21_13_StudentFeesEncap/Main.java` | Java | ✅ |
 | 2026-09-23 | 01_HelloWorld | `/2026-09-23_01_HelloWorld/Main.java` | Java | ✅ |
 | 2026-09-24 | 06_NumbersAverage | `/2026-09-24_06_NumbersAverage/Main.java` | Java | ✅ |
+| 2026-09-25 | 04_LoopsForWhile | `/2026-09-25_04_LoopsForWhile/Main.java` | Java | ✅ |
