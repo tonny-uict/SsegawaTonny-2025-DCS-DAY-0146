@@ -28,3 +28,4 @@
 | 2026-09-24 | 06_NumbersAverage | `/2026-09-24_06_NumbersAverage/Main.java` | Java | ✅ |
 | 2026-09-25 | 04_LoopsForWhile | `/2026-09-25_04_LoopsForWhile/Main.java` | Java | ✅ |
 | 2026-09-26 | 05_SwitchStatement | `/2026-09-26_05_SwitchStatement/Main.java` | Java | ✅ |
+| 2026-09-27 | 19_ShoppingCartOOP | `/2026-09-27_19_ShoppingCartOOP/Main.java` | Java | ✅ |
