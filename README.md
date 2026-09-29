@@ -30,3 +30,4 @@
 | 2026-09-26 | 05_SwitchStatement | `/2026-09-26_05_SwitchStatement/Main.java` | Java | ✅ |
 | 2026-09-27 | 19_ShoppingCartOOP | `/2026-09-27_19_ShoppingCartOOP/Main.java` | Java | ✅ |
 | 2026-09-28 | 14_ThisKeyword | `/2026-09-28_14_ThisKeyword/Main.java` | Java | ✅ |
+| 2026-09-29 | 03_ControlIfElse | `/2026-09-29_03_ControlIfElse/Main.java` | Java | ✅ |
