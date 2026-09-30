@@ -31,3 +31,4 @@
 | 2026-09-27 | 19_ShoppingCartOOP | `/2026-09-27_19_ShoppingCartOOP/Main.java` | Java | ✅ |
 | 2026-09-28 | 14_ThisKeyword | `/2026-09-28_14_ThisKeyword/Main.java` | Java | ✅ |
 | 2026-09-29 | 03_ControlIfElse | `/2026-09-29_03_ControlIfElse/Main.java` | Java | ✅ |
+| 2026-09-30 | 09_MethodsDemo | `/2026-09-30_09_MethodsDemo/Main.java` | Java | ✅ |
