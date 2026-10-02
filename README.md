@@ -33,3 +33,4 @@
 | 2026-09-29 | 03_ControlIfElse | `/2026-09-29_03_ControlIfElse/Main.java` | Java | ✅ |
 | 2026-09-30 | 09_MethodsDemo | `/2026-09-30_09_MethodsDemo/Main.java` | Java | ✅ |
 | 2026-10-01 | 12_AccessModifiers | `/2026-10-01_12_AccessModifiers/Main.java` | Java | ✅ |
+| 2026-10-02 | 20_GettersSettersValidation | `/2026-10-02_20_GettersSettersValidation/Main.java` | Java | ✅ |
