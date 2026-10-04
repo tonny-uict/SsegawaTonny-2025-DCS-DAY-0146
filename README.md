@@ -35,3 +35,4 @@
 | 2026-10-01 | 12_AccessModifiers | `/2026-10-01_12_AccessModifiers/Main.java` | Java | ✅ |
 | 2026-10-02 | 20_GettersSettersValidation | `/2026-10-02_20_GettersSettersValidation/Main.java` | Java | ✅ |
 | 2026-10-03 | 16_LibraryEncap | `/2026-10-03_16_LibraryEncap/Main.java` | Java | ✅ |
+| 2026-10-04 | 01_HelloWorld | `/2026-10-04_01_HelloWorld/Main.java` | Java | ✅ |
