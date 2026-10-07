@@ -38,3 +38,4 @@
 | 2026-10-04 | 01_HelloWorld | `/2026-10-04_01_HelloWorld/Main.java` | Java | ✅ |
 | 2026-10-05 | 08_Constructors | `/2026-10-05_08_Constructors/Main.java` | Java | ✅ |
 | 2026-10-06 | 18_ATMEncap | `/2026-10-06_18_ATMEncap/Main.java` | Java | ✅ |
+| 2026-10-07 | 17_SimpleInheritance | `/2026-10-07_17_SimpleInheritance/Main.java` | Java | ✅ |
