@@ -41,3 +41,4 @@
 | 2026-10-07 | 17_SimpleInheritance | `/2026-10-07_17_SimpleInheritance/Main.java` | Java | ✅ |
 | 2026-10-08 | 14_ThisKeyword | `/2026-10-08_14_ThisKeyword/Main.java` | Java | ✅ |
 | 2026-10-09 | 11_BankAccountEncap | `/2026-10-09_11_BankAccountEncap/Main.java` | Java | ✅ |
+| 2026-10-10 | 20_GettersSettersValidation | `/2026-10-10_20_GettersSettersValidation/Main.java` | Java | ✅ |
