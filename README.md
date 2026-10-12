@@ -43,3 +43,4 @@
 | 2026-10-09 | 11_BankAccountEncap | `/2026-10-09_11_BankAccountEncap/Main.java` | Java | ✅ |
 | 2026-10-10 | 20_GettersSettersValidation | `/2026-10-10_20_GettersSettersValidation/Main.java` | Java | ✅ |
 | 2026-10-11 | 12_AccessModifiers | `/2026-10-11_12_AccessModifiers/Main.java` | Java | ✅ |
+| 2026-10-12 | 03_ControlIfElse | `/2026-10-12_03_ControlIfElse/Main.java` | Java | ✅ |
