@@ -44,3 +44,4 @@
 | 2026-10-10 | 20_GettersSettersValidation | `/2026-10-10_20_GettersSettersValidation/Main.java` | Java | ✅ |
 | 2026-10-11 | 12_AccessModifiers | `/2026-10-11_12_AccessModifiers/Main.java` | Java | ✅ |
 | 2026-10-12 | 03_ControlIfElse | `/2026-10-12_03_ControlIfElse/Main.java` | Java | ✅ |
+| 2026-10-13 | 19_ShoppingCartOOP | `/2026-10-13_19_ShoppingCartOOP/Main.java` | Java | ✅ |
