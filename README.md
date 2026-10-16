@@ -47,3 +47,4 @@
 | 2026-10-13 | 19_ShoppingCartOOP | `/2026-10-13_19_ShoppingCartOOP/Main.java` | Java | ✅ |
 | 2026-10-14 | 06_NumbersAverage | `/2026-10-14_06_NumbersAverage/Main.java` | Java | ✅ |
 | 2026-10-15 | 15_ArrayAndLoop | `/2026-10-15_15_ArrayAndLoop/Main.java` | Java | ✅ |
+| 2026-10-16 | 05_SwitchStatement | `/2026-10-16_05_SwitchStatement/Main.java` | Java | ✅ |
