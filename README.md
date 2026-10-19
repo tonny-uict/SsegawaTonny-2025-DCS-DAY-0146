@@ -50,3 +50,4 @@
 | 2026-10-16 | 05_SwitchStatement | `/2026-10-16_05_SwitchStatement/Main.java` | Java | ✅ |
 | 2026-10-17 | 04_LoopsForWhile | `/2026-10-17_04_LoopsForWhile/Main.java` | Java | ✅ |
 | 2026-10-18 | 10_EncapsulationBasic | `/2026-10-18_10_EncapsulationBasic/Main.java` | Java | ✅ |
+| 2026-10-19 | 09_MethodsDemo | `/2026-10-19_09_MethodsDemo/Main.java` | Java | ✅ |
