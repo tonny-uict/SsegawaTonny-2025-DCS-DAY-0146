@@ -52,3 +52,4 @@
 | 2026-10-18 | 10_EncapsulationBasic | `/2026-10-18_10_EncapsulationBasic/Main.java` | Java | ✅ |
 | 2026-10-19 | 09_MethodsDemo | `/2026-10-19_09_MethodsDemo/Main.java` | Java | ✅ |
 | 2026-10-20 | 02_VariablesDataTypes | `/2026-10-20_02_VariablesDataTypes/Main.java` | Java | ✅ |
+| 2026-10-21 | 07_ClassAndObject | `/2026-10-21_07_ClassAndObject/Main.java` | Java | ✅ |
