@@ -55,3 +55,4 @@
 | 2026-10-21 | 07_ClassAndObject | `/2026-10-21_07_ClassAndObject/Main.java` | Java | ✅ |
 | 2026-10-22 | 13_StudentFeesEncap | `/2026-10-22_13_StudentFeesEncap/Main.java` | Java | ✅ |
 | 2026-10-23 | 02_VariablesDataTypes | `/2026-10-23_02_VariablesDataTypes/Main.java` | Java | ✅ |
+| 2026-10-24 | 16_LibraryEncap | `/2026-10-24_16_LibraryEncap/Main.java` | Java | ✅ |
