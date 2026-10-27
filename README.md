@@ -57,3 +57,4 @@
 | 2026-10-23 | 02_VariablesDataTypes | `/2026-10-23_02_VariablesDataTypes/Main.java` | Java | ✅ |
 | 2026-10-24 | 16_LibraryEncap | `/2026-10-24_16_LibraryEncap/Main.java` | Java | ✅ |
 | 2026-10-25 | 12_AccessModifiers | `/2026-10-25_12_AccessModifiers/Main.java` | Java | ✅ |
+| 2026-10-27 | 08_Constructors | `/2026-10-27_08_Constructors/Main.java` | Java | ✅ |
