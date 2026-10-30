@@ -60,3 +60,4 @@
 | 2026-10-27 | 08_Constructors | `/2026-10-27_08_Constructors/Main.java` | Java | ✅ |
 | 2026-10-28 | 10_EncapsulationBasic | `/2026-10-28_10_EncapsulationBasic/Main.java` | Java | ✅ |
 | 2026-10-29 | 19_ShoppingCartOOP | `/2026-10-29_19_ShoppingCartOOP/Main.java` | Java | ✅ |
+| 2026-10-30 | 20_GettersSettersValidation | `/2026-10-30_20_GettersSettersValidation/Main.java` | Java | ✅ |
