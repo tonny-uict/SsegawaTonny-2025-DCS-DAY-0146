@@ -61,3 +61,4 @@
 | 2026-10-28 | 10_EncapsulationBasic | `/2026-10-28_10_EncapsulationBasic/Main.java` | Java | ✅ |
 | 2026-10-29 | 19_ShoppingCartOOP | `/2026-10-29_19_ShoppingCartOOP/Main.java` | Java | ✅ |
 | 2026-10-30 | 20_GettersSettersValidation | `/2026-10-30_20_GettersSettersValidation/Main.java` | Java | ✅ |
+| 2026-10-31 | 03_ControlIfElse | `/2026-10-31_03_ControlIfElse/Main.java` | Java | ✅ |
