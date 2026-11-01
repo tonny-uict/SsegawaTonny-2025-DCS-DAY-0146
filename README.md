@@ -62,3 +62,4 @@
 | 2026-10-29 | 19_ShoppingCartOOP | `/2026-10-29_19_ShoppingCartOOP/Main.java` | Java | ✅ |
 | 2026-10-30 | 20_GettersSettersValidation | `/2026-10-30_20_GettersSettersValidation/Main.java` | Java | ✅ |
 | 2026-10-31 | 03_ControlIfElse | `/2026-10-31_03_ControlIfElse/Main.java` | Java | ✅ |
+| 2026-11-01 | 17_SimpleInheritance | `/2026-11-01_17_SimpleInheritance/Main.java` | Java | ✅ |
