@@ -63,3 +63,4 @@
 | 2026-10-30 | 20_GettersSettersValidation | `/2026-10-30_20_GettersSettersValidation/Main.java` | Java | ✅ |
 | 2026-10-31 | 03_ControlIfElse | `/2026-10-31_03_ControlIfElse/Main.java` | Java | ✅ |
 | 2026-11-01 | 17_SimpleInheritance | `/2026-11-01_17_SimpleInheritance/Main.java` | Java | ✅ |
+| 2026-11-02 | 09_MethodsDemo | `/2026-11-02_09_MethodsDemo/Main.java` | Java | ✅ |
