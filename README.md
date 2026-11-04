@@ -65,3 +65,4 @@
 | 2026-11-01 | 17_SimpleInheritance | `/2026-11-01_17_SimpleInheritance/Main.java` | Java | ✅ |
 | 2026-11-02 | 09_MethodsDemo | `/2026-11-02_09_MethodsDemo/Main.java` | Java | ✅ |
 | 2026-11-03 | 15_ArrayAndLoop | `/2026-11-03_15_ArrayAndLoop/Main.java` | Java | ✅ |
+| 2026-11-04 | 11_BankAccountEncap | `/2026-11-04_11_BankAccountEncap/Main.java` | Java | ✅ |
