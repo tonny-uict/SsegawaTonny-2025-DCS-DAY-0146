@@ -68,3 +68,4 @@
 | 2026-11-04 | 11_BankAccountEncap | `/2026-11-04_11_BankAccountEncap/Main.java` | Java | ✅ |
 | 2026-11-05 | 04_LoopsForWhile | `/2026-11-05_04_LoopsForWhile/Main.java` | Java | ✅ |
 | 2026-11-06 | 13_StudentFeesEncap | `/2026-11-06_13_StudentFeesEncap/Main.java` | Java | ✅ |
+| 2026-11-07 | 01_HelloWorld | `/2026-11-07_01_HelloWorld/Main.java` | Java | ✅ |
