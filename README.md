@@ -70,3 +70,4 @@
 | 2026-11-06 | 13_StudentFeesEncap | `/2026-11-06_13_StudentFeesEncap/Main.java` | Java | ✅ |
 | 2026-11-07 | 01_HelloWorld | `/2026-11-07_01_HelloWorld/Main.java` | Java | ✅ |
 | 2026-11-08 | 06_NumbersAverage | `/2026-11-08_06_NumbersAverage/Main.java` | Java | ✅ |
+| 2026-11-09 | 18_ATMEncap | `/2026-11-09_18_ATMEncap/Main.java` | Java | ✅ |
