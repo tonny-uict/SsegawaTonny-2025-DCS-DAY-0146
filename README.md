@@ -73,3 +73,4 @@
 | 2026-11-09 | 18_ATMEncap | `/2026-11-09_18_ATMEncap/Main.java` | Java | ✅ |
 | 2026-11-10 | 07_ClassAndObject | `/2026-11-10_07_ClassAndObject/Main.java` | Java | ✅ |
 | 2026-11-11 | 05_SwitchStatement | `/2026-11-11_05_SwitchStatement/Main.java` | Java | ✅ |
+| 2026-11-12 | 14_ThisKeyword | `/2026-11-12_14_ThisKeyword/Main.java` | Java | ✅ |
